@@ -154,10 +154,6 @@ Thanks to all the amazing contributors who have helped improve this project!
 
 <!-- To future contributors: Your profile will be added here when your PR is merged! -->
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/harshhh28/hia/blob/main/LICENSE) file for details.
-
 ## 🙋‍♂️ Author
 
-Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
+Created by Braj Shivvedi
